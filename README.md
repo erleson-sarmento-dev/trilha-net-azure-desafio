@@ -73,7 +73,7 @@ O projeto foi implementado conforme as regras descritas no desafio:
 
 ---
 
-## 🔒 Configuração de Credenciais da Azure (Repositório Público)
+## Configuração de Credenciais da Azure (Repositório Público)
 
 > [!IMPORTANT]
 > **Atenção:** Por questões de segurança e boas práticas de desenvolvimento (DevOps / DevSecOps), **nenhuma chave de acesso, senha ou connection string real foi versionada neste repositório**.
@@ -114,7 +114,7 @@ Para executar o projeto, você deve configurar suas próprias credenciais no arq
 
 ---
 
-## 🚀 Como Executar o Projeto Localmente
+## Como Executar o Projeto Localmente
 
 1. **Clonar o repositório:**
    ```bash
@@ -144,7 +144,7 @@ Para executar o projeto, você deve configurar suas próprias credenciais no arq
 
 ---
 
-## ☁️ Publicação no Microsoft Azure
+## Publicação no Microsoft Azure
 
 1. **Azure App Service**:
    - Crie um recurso de **App Service** (Web App) com runtime `.NET 6`.
